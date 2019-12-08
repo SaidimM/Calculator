@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/JZ_2"
+    android:title="二进制"/>
+    <item
+        android:id="@+id/JZ_8"
+        android:title="八进制"/>
+    <item
+        android:id="@+id/JZ_10"
+        android:title="十进制"/>
+    <item
+        android:id="@+id/JZ_16"
+        android:title="十六进制"/>
+</menu>
